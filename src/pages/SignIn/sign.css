@@ -1,0 +1,20 @@
+.title{
+  color: linear-gradient(to bottom, #141819 0%, #a3f881 100%);
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+     
+  }
+  /* .title1{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+
+  } */
+  .item-card{
+    background: linear-gradient(to bottom, #f2f7f1 0%, #dbd6d8 100%);
+      font-size: 1.5rem;   
+  }
+  .wrapper{
+    height: 95vh;
+    overflow-y: hidden;
+  }
+  .m-3{
+    font-size:1.3rem;
+  }
